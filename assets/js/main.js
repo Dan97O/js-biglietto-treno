@@ -17,7 +17,7 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
 
 // numero km da percorrere
-const kilometersToGo = number(prompt('Quanti chilometri vuoi percorrere?'));
+const kilometersToGo = prompt('Quanti chilometri vuoi percorrere?');
 console.log(kilometersToGo);
 
 // età del passeggiero
